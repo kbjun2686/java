@@ -1,4 +1,4 @@
-단package programmers.lv0;
+package programmers.lv0;
 
 import java.util.Arrays;
 
