@@ -1,5 +1,6 @@
 package programmers.lv0;
 
+// 숫자 찾기
 public class FindNum {
     public static void main(String[] args) {
         Solution s = new Solution();
